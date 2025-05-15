@@ -90,7 +90,7 @@
    </td>
 
    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,figma,vercel,aws,vscode" />
+      <img src="https://skillicons.dev/icons?i=git,github,figma,vercel,render,aws,vscode" />
     </td>
   </tr>
 </table>
