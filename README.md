@@ -68,12 +68,7 @@
 ## 🛠 Technologies & Tools I Use
 
 
-<p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
- 
 
-<p align="center">
-     <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
     
    
 <h3 align="center">⚙️ Core Skills</h3>
@@ -114,16 +109,7 @@
 </table>
 
 
-<!--
-### - Blogs 🌱
--->
-<!--
-<p align="center">
-  <a href="https://dev.to/hemant">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
-  </a>
-</p>
--->-
+
 
 <h2 align="left">Profile Views</h2>
 <img src="https://profile-counter.glitch.me/abijith-831/count.svg" />
@@ -164,20 +150,20 @@
     </p>
     
    
-<!--
+
    
-<br />
+   <br />
+   
+   <h2 align="center">🤝 Support</h2>
+   
+   <p align="center">🎀 Contributions (GitHub Flow), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+   
+   <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+   </p>
+   <p align="center">Made with ❤️ in India</p>
+   
+   <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
-<h2 align="center">🤝 Support</h2>
-
-<p align="center">🎀 Contributions (GitHub Flow), 🔥 issues, and 🥮 feature requests are most welcome!</p>
-
-<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
-</p>
-<p align="center">Made with ❤️ in India</p>
-
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
--->
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
@@ -185,19 +171,3 @@
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 
-<!--
-
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://medium.com/@shamil bin abdussamad tk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shamil bin abdussamad tk" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shamilbin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shamilbin" height="30" width="40" /></a>
-</p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamilbin&show_icons=true&locale=en&layout=compact" alt="shamilbin" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamilbin&show_icons=true&locale=en" alt="shamilbin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamilbin&" alt="shamilbin" /></p>
-
--->
