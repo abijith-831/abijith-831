@@ -5,17 +5,20 @@
 
 </div>
 
-   <p align='center'>
-      <a href="https://www.linkedin.com/in/shamilbin/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<p align="center">
+  <a href="https://www.linkedin.com/in/shamilbin/">
+    <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
 
-   <a href="https://port-folio-1-five.vercel.app/"><img height="30" src="https://img.icons8.com/ios-filled/50/briefcase.png" alt="portfolio icon"/></a>
-      
-   <a href="https://www.instagram.com/abhi_jith_p831/">
-        <img height="30" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram icon"/>
-      </a>&nbsp;&nbsp;
-      
+  <a href="https://port-folio-1-five.vercel.app/">
+    <img height="30" src="https://img.icons8.com/ios-filled/30/briefcase.png" alt="Portfolio" />
+  </a>&nbsp;&nbsp;
 
-   </p>
+  <a href="https://www.instagram.com/abhi_jith_p831/">
+    <img height="30" src="https://img.icons8.com/fluency/30/instagram-new.png" alt="Instagram" />
+  </a>
+</p>
+
 
 
 
