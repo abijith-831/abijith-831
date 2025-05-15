@@ -79,15 +79,9 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" height="25" />
-      <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" height="25" />
-      <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" height="25" />
-      <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" height="25" />
-      <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" height="25" />
-      <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" height="25" />
-      <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" height="25" />
-      <img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" height="25" />
-      <img src="https://img.shields.io/badge/Styled%20Components-282C34?logo=styled-components&logoColor=DB7093" height="25" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,next,react,vite,redux,nodejs,express,firebase,mongodb,postgres,tailwind,git,github,figma,vercel" />
+</p>
     </td>
 
    <td align="center">
