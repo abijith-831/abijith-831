@@ -60,7 +60,7 @@
 
 - 💡 Always happy to chat about Full Stack Development, best practices, and new tech trends
 
-- 📫 How to reach me **abhijithasokan831@gmail.com**
+- 📬 Feel free to connect or collaborate! Reach me at **abhijithasokan831@gmail.com**
 
 
 ## 🛠 Technologies & Tools I Use
@@ -124,7 +124,7 @@
 -->-
 
 <h2 align="left">Profile Views</h2>
-<img src="https://profile-counter.glitch.me/shamilbin/count.svg" />
+<img src="https://profile-counter.glitch.me/abijith-831/count.svg" />
 
 ---
 
