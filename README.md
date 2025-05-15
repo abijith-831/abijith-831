@@ -56,13 +56,11 @@
 
 
 
-- 🌱 I’m currently learning **JavaScript , Node.JS**
+- 🚀 Currently diving deep into Advanced JavaScript & Node.js to level up my backend skills
 
-- 📝 I regularly write articles on [https://medium.com/@shamiltk029](https://medium.com/@shamiltk029)
+- 💡 Always happy to chat about Full Stack Development, best practices, and new tech trends
 
-- 💬 Ask me about **Full Stack Development**
-
-- 📫 How to reach me **shamiltk029@gmail.com**
+- 📫 How to reach me **abhijithasokan831@gmail.com**
 
 
 ## 🛠 Technologies & Tools I Use
@@ -92,7 +90,7 @@
       <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" height="25" />
       <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" height="25" />
       <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" height="25" />
-      <img src="https://img.shields.io/badge/React%20Native-282C34?logo=react&logoColor=61DAFB" height="25" />
+      <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" height="25" />
       <img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" height="25" />
       <img src="https://img.shields.io/badge/Styled%20Components-282C34?logo=styled-components&logoColor=DB7093" height="25" />
     </td>
@@ -102,7 +100,7 @@
       <img src="https://img.shields.io/badge/Express.js-282C34?logo=express&logoColor=FFFFFF" height="25" />
       <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" height="25" />
       <img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" height="25" />
-      <img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" height="25" />
+      <img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=336791" height="25" />
     </td>
 
    <td align="center">
