@@ -150,10 +150,10 @@
    <p align="center">Made with ❤️ in India</p>
    <p align="center">
   <a href="https://github.com/your-username" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="GitHub" />
   </a>
   <a href="https://vercel.com/your-profile" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" />
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Vercel" />
   </a>
   <a href="mailto:your-email@example.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
