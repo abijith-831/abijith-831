@@ -13,7 +13,7 @@
 
 
    <a href="https://port-folio-1-five.vercel.app/">
-        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio"/>
+        <img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio"/>
     </a>
 
 </p>
