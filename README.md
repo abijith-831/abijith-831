@@ -12,9 +12,9 @@
     <a href="https://leetcode.com/u/Abhijith831/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 
 
-<a href="https://port-folio-1-five.vercel.app/">
-  <img height="30" src="https://img.icons8.com/color/48/suitcase.png" alt="Portfolio icon" />
-</a>
+   <a href="https://port-folio-1-five.vercel.app/">
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio"/>
+    </a>
 
 </p>
 
