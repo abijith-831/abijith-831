@@ -80,24 +80,17 @@
   <tr>
     <td align="center">
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,next,react,vite,redux,nodejs,express,firebase,mongodb,postgres,tailwind,git,github,figma,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,next,react,vite,reduxt,tailwind,figma" />
 </p>
     </td>
 
    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,next,react,vite,redux,nodejs,express,firebase,mongodb,postgres,tailwind,git,github,figma,vercel" />
-      <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" height="25" />
-      <img src="https://img.shields.io/badge/Express.js-282C34?logo=express&logoColor=FFFFFF" height="25" />
-      <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" height="25" />
-      <img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" height="25" />
-      <img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=336791" height="25" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,postgres" />
+
     </td>
 
    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,figma,vercel" />
-      <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" height="25" />
-      <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" height="25" />
-      <img src="https://img.shields.io/badge/AWS-282C34?logo=amazonaws&logoColor=FF9900" height="25" />
+      <img src="https://skillicons.dev/icons?i=git,github,figma,vercel,aws,vscode" />
     </td>
   </tr>
 </table>
