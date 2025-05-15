@@ -1,13 +1,3 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Vite + React</title>
-  </head>
-  <body>
-
     <div align="center">
       <h1>Hi there, I'm   Abhijith   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
       
@@ -168,8 +158,3 @@
    
    <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
    
-   
-
-   
-  </body>
-</html>
