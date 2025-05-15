@@ -161,8 +161,6 @@
    <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
    </p>
    <p align="center">Made with ❤️ in India</p>
-   
-   <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Happy+Coding!;See+you+soon!" alt="Typing SVG" />
