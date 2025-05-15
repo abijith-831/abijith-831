@@ -80,14 +80,14 @@
   <tr>
     <td align="center">
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,next,react,vite,reduxt,tailwind,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,next,react,vite,redux,tailwind" />
 </p>
     </td>
 
    <td align="center">
       <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,postgres" />
 
-    </td>
+   </td>
 
    <td align="center">
       <img src="https://skillicons.dev/icons?i=git,github,figma,vercel,aws,vscode" />
