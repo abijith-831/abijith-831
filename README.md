@@ -157,12 +157,10 @@
 
 <br />
 
-<p align="center">
-   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzN6b2JhYmh2NTBpb3c4ZTZzd3F1Z3cyZ2VjMDBlNXgyM3F1N2pwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/br99SojJZ5rlfSYset/giphy.gif" />
-
-
-
-   </p>
+   <p align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+    </p>
+    
    
 <!--
    
