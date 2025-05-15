@@ -133,9 +133,9 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <a href="https://github.com/shamilbin">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shamilbin&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamilbin&layout=compact&langs_count=8&theme=radical" />
+  <a href="https://github.com/abijith-831">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abijith-831&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abijith-831&layout=compact&langs_count=8&theme=radical" />
      
   </a>
   
@@ -144,7 +144,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=shamilbin&theme=radical" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=abijith-831&theme=radical" alt="GitHub Streak" />
   </a>
 </p>
 
