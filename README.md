@@ -41,7 +41,7 @@
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndpb2wyOHdvMnNpdndzOHVpZ2E2b3JjanhxMzg0MG9pM3NqeDNubiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" />
 <p align="center">
-  <h3> I'm 24 years old Full-Stack developer from India.</h3>
+  <h3>Full Stack Developer Specializing in MERN Stack</h3>
    <h4>💻 I love crafting clean, efficient code and building awesome web experiences.</h4>
   <h4>🚀 Currently leveling up my skills and exploring new technologies every day.</h4>
 </p>
