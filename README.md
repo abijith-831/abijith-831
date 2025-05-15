@@ -85,7 +85,7 @@
     </td>
 
    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,postgres" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,jwt,firebase,mongodb,postgres" />
 
    </td>
 
