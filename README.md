@@ -141,19 +141,44 @@
    
    <br />
    
-   <h2 align="center">🤝 Support</h2>
-   
-   <p align="center">🎀 Contributions (GitHub Flow), 🔥 issues, and 🥮 feature requests are most welcome!</p>
-   
-   <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
-   </p>
-   <p align="center">Made with ❤️ in India</p>
+<h2 align="center">🤝 Support</h2>
 
+<p align="center">🎀 Contributions (GitHub Flow), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+
+<p align="center">Made with ❤️ in India</p>
+
+<!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Happy+Coding!;See+you+soon!" alt="Typing SVG" />
 </p>
 
+<!-- Social Links -->
+<p align="center">
+  <a href="mailto:abhijithasokan831@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abhijith-p-0605ab259/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/abhi_jith_p831/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://leetcode.com/u/Abhijith831/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://port-folio-1-five.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00C8FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+<!-- Skill Icons -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,postgres,git,github,vercel,figma,vscode" />
+</p>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
 
 
