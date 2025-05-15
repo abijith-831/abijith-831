@@ -18,6 +18,10 @@
   <a href="https://www.instagram.com/abhi_jith_p831/">
     <img height="30" src="https://img.icons8.com/fluency/30/instagram-new.png" alt="Instagram" />
   </a>
+
+   <a href="mailto:abhijithasokan831@gmail.com">
+    <img height="30" src="https://img.icons8.com/fluency/48/gmail.png" alt="Email" />
+  </a>
 </p>
 
 
