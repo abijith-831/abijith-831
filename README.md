@@ -165,8 +165,9 @@
    <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Happy+Coding!;See+you+soon!" alt="Typing SVG" />
 </p>
+
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
