@@ -149,13 +149,13 @@
    </p>
    <p align="center">Made with ❤️ in India</p>
    <p align="center">
-  <a href="https://github.com/your-username" target="_blank">
+  <a href="https://www.linkedin.com/in/abhijith-p-0605ab259/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="GitHub" />
   </a>
-  <a href="https://vercel.com/your-profile" target="_blank">
+  <a href="https://www.instagram.com/abhi_jith_p831/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Vercel" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:abhijithasokan831@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
 </p>
