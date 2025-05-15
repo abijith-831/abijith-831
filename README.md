@@ -85,12 +85,12 @@
     </td>
 
    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,jwt,firebase,mongodb,postgres" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,postgres" />
 
    </td>
 
    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,figma,vercel,render,aws,vscode" />
+      <img src="https://skillicons.dev/icons?i=git,github,figma,vercel,aws,vscode" />
     </td>
   </tr>
 </table>
