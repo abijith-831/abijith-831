@@ -1,17 +1,21 @@
 <div align="center">
-   <h1>Hi there, I'm    Shamil Bin Abdussamad TK  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hi there, I'm    Abhijith P  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
    
 
 </div>
 
-<p align='center'>
-   <a href="https://www.linkedin.com/in/shamilbin/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://x.com/Shamil_bin_"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://dev.to/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/trinnwin"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
- <a href="https://www.coffee.com/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
- </p>
+   <p align='center'>
+      <a href="https://www.linkedin.com/in/shamilbin/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+
+   <a href="https://port-folio-1-five.vercel.app/"><img height="30" src="https://img.icons8.com/ios-filled/50/briefcase.png" alt="portfolio icon"/></a>
+      
+   <a href="https://www.instagram.com/abhi_jith_p831/">
+        <img height="30" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram icon"/>
+      </a>&nbsp;&nbsp;
+      
+
+   </p>
 
 
 
