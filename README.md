@@ -6,13 +6,13 @@
 </div>
 
 <p align="center">
-    <a href="mailto:abhijithasokan831@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://www.linkedin.com/in/abhijith-p-0605ab259/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://www.instagram.com/abhi_jith_p831/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-    <a href="https://leetcode.com/u/Abhijith831/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+    <a target="_blank" rel="noopener noreferrer" href="mailto:abhijithasokan831@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/abhijith-p-0605ab259/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/abhi_jith_p831/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+    <a target="_blank" rel="noopener noreferrer" href="https://leetcode.com/u/Abhijith831/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 
 
-   <a href="https://port-folio-1-five.vercel.app/">
+   <a target="_blank" rel="noopener noreferrer" href="https://portfolio-2-gules-ten.vercel.app/">
         <img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio"/>
     </a>
 
