@@ -99,8 +99,6 @@
 
 
 
-<h2 align="left">Profile Views</h2>
-<img src="https://profile-counter.glitch.me/abijith-831/count.svg" />
 
 ---
 
